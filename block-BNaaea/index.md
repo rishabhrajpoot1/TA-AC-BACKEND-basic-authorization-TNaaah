@@ -6,6 +6,23 @@ Extend Assignment level 3 from prevoius chapter to
 - view all users
 - view all products
 - view all categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - view product based on categories
 
 - add categories to product
